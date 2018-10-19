@@ -9,4 +9,4 @@ Analyzing S&P 500 data to asses the significance of extreme volatility values
  
 Click to run live in Colab! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Patrick-David/Stocks_Significance_PHacking/blob/master/Stocks_Significance_PHacking.ipynb)
 
-Click to run live in Binder![![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Patrick-David/Stocks_Significance_PHacking/master)
+Click to run live in Binder! [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Patrick-David/Stocks_Significance_PHacking/master)
